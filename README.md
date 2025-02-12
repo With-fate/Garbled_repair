@@ -11,4 +11,6 @@
     python main.py
 
 (注意：请尽量让文件中只存在乱码，如果存在正常汉字可能会影响结果)
+
+示例：
 ![GitHub Logo](./image/示例.png)
